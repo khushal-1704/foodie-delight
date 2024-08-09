@@ -1,0 +1,40 @@
+{
+  "list": [
+    {
+      "id": "1ef56561-3038-6a30-a211-2f17323ec1c9",
+      "name": "Sodhani Sweet",
+      "cuisine": "India Sweets , Namkeen , Deep freid Food",
+      "address": "VDN , Jaipur",
+      "ratings": 4,
+      "opensAt": "06:00",
+      "restroImage": "https://lh3.googleusercontent.com/p/AF1QipN7Dp7Gv3wfq5I7WICOf8m88sk9pP-Om3UV-kk_=s680-w680-h510"
+    },
+    {
+      "id": "1ef56561-3038-6a30-a311-2f17323ec1c9",
+      "name": "Lapinose",
+      "cuisine": "Pizza, Italian pasta",
+      "address": "MI , Jaipur",
+      "ratings": 4.5,
+      "opensAt": "06:00",
+      "restroImage": "https://b.zmtcdn.com/data/pictures/chains/2/308322/9fceaa15fa05d707cc2d311ae9be066d_featured_v2.jpg?output-format=webp"
+    },
+    {
+      "id": "1ef56561-3038-6a30-a411-2f17323ec1c9",
+      "name": "Jain Sweets",
+      "cuisine": "India Sweets , Namkeen , Deep freid Food",
+      "address": "Delhi",
+      "ratings": 3.5,
+      "opensAt": "10:00",
+      "restroImage": "https://b.zmtcdn.com/data/pictures/3/18759923/064e58f448a7a68735836030c804f699_featured_v2.jpg?output-format=webp"
+    },
+    {
+      "id": "1ef56601-f4cf-6100-8f7a-fd0b7881d06d",
+      "name": "BBQ Nation",
+      "cuisine": "BBQ, South India, North India, Italian , Maxican",
+      "address": "Gurugram , Haryana",
+      "ratings": 3.5,
+      "opensAt": "09:00",
+      "restroImage": "https://b.zmtcdn.com/data/pictures/6/20293756/6fe8ac5ddbac9c3462390712eac59502.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    }
+  ]
+}

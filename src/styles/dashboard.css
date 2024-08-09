@@ -1,0 +1,65 @@
+.dashboard {
+  height: calc(100vh - 70px);
+}
+
+.res-list-box {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+@media screen and (max-width : 780px) {
+  .res-list-box {
+    justify-content: center;
+  }
+}
+
+.dashboard-content {
+  margin-top: 70px;
+  padding: 10px;
+  height: 100%;
+
+}
+
+.add-btn {
+  padding: 8px 2px;
+  border-radius: 5px;
+  background-color: #ee4e62;
+  width: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.add-icon {
+  font-size: 20px;
+}
+
+.add-text {
+  font-size: 16px;
+  color: white;
+  font-weight: 600;
+  margin-left: 3px;
+}
+
+.no-list-item {
+  background-color: green;
+  height: 100%;
+}
+
+.list-error {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+}
+
+.error-message{
+  margin: 10px 0px;
+  font-size: 20px;
+  font-weight: 400;
+}
